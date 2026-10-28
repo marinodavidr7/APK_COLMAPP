@@ -1,0 +1,6 @@
+{
+  "name": "ColmaApp",
+  "description": "Aplicación móvil para ColmaApp (https://colmaapp.ai.studio)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

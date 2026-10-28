@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ColmaApp</string>
+    <string name="loading">Cargando ColmaApp…</string>
+    <string name="offline_title">Sin conexión a internet</string>
+    <string name="offline_desc">No pudimos conectar con ColmaApp. Revisa tu red Wi-Fi o datos móviles.</string>
+    <string name="btn_retry">Reintentar conexión</string>
+    <string name="btn_open_browser">Abrir en navegador</string>
+    <string name="btn_home">Inicio</string>
+    <string name="btn_refresh">Actualizar</string>
+    <string name="btn_share">Compartir</string>
+    <string name="share_text">Visita ColmaApp en https://colmaapp.ai.studio/</string>
+</resources>
